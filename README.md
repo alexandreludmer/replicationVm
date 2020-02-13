@@ -13,7 +13,7 @@ Ce travail s'effectue depuis une bécane windows 10
 
 ## Mon architecture :
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Architecture](https://github.com/alexandreludmer/replicationVm/blob/master/Untitled%20Diagram.png)
 
 
 
