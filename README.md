@@ -9,6 +9,7 @@
  - Installation du Backend : https://github.com/gothinkster/node-express-realworld-example-app 
  - Installation du Frontend : https://github.com/gothinkster/react-redux-realworld-example-app
  - Manipulation d'Ansible 
+ - Contenu de mes différents fichiers vagrant disponible dans le repo 
 
 # Begin
 
