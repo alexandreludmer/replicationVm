@@ -1,6 +1,6 @@
 # Projet (non) terminé 
 
-##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer une VM vagrant dans une VM vagrant. 
+##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer deux VMs vagrant dans une VM vagrant. 
 ##### Résultat : Mon inception de VM ne peux pas se lancer à cause du module VT-X non activé...
 
 ##### Ce qui a été fait : 
