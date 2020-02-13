@@ -7,6 +7,7 @@
  - configuration IP, son hostname et l'ouverture de port automatique avec Vagrant 
  - L'itération d'installation de paquets
  - Installation du Backend : https://github.com/gothinkster/node-express-realworld-example-app 
+ - Installation de la MongoDB
  - Installation du Frontend : https://github.com/gothinkster/react-redux-realworld-example-app
  - Manipulation d'Ansible 
  - Contenu de mes différents fichiers vagrant disponible dans le repo 
