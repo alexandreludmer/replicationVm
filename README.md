@@ -1,4 +1,4 @@
-# Projet non terminé
+# Projet (non) terminé 
 
 ##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer une VM vagrant dans une VM vagrant. 
 ##### Résultat : Mon inception de VM ne peux pas se lancer à cause du module VT-X non activé...
@@ -48,4 +48,6 @@ Sur la machine "Monitor" :
 ![BabyRage](https://git.io/BabyRage)
 ![BabyRage](https://git.io/BabyRage)
 ![BabyRage](https://git.io/BabyRage)
+
+![bugbugbug](https://drive.google.com/file/d/1B_qldPriGZzF05LnyJmXgR_7UOPEsg2j/view?usp=sharing)
 
