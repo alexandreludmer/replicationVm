@@ -49,5 +49,5 @@ Sur la machine "Monitor" :
 ![BabyRage](https://git.io/BabyRage)
 ![BabyRage](https://git.io/BabyRage)
 
-![bugbugbug](https://drive.google.com/file/d/1B_qldPriGZzF05LnyJmXgR_7UOPEsg2j/view?usp=sharing)
+![bugbugbug](https://imgshare.io/images/2020/02/13/test.png)
 
