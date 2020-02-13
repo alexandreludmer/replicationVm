@@ -1,8 +1,18 @@
 # Begin
 
+- TODO : https://fteychene.github.io/vagrant-ansible-epsi/Projet.pdf
 
-1. Vagrant Installation
+1. Contexte 
 
-- vagrant init centos/7
-- vagrant up
+Ce travail s'effectue depuis une bécane windows 10 
+
+## Prérequis :
+
+- Vagrant 
+- Virtualbox
+
+## Mon architecture :
+
+
+
 
