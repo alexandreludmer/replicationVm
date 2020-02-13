@@ -1,6 +1,7 @@
 # Projet non terminé
 
-##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer une VM vagrant dans une VM vagrant. Résultat : Mon inception de VM ne peux pas se lancer à cause du module VT-X non activé...
+##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer une VM vagrant dans une VM vagrant. 
+##### Résultat : Mon inception de VM ne peux pas se lancer à cause du module VT-X non activé...
 
 ##### Ce qui a été fait : 
  - configuration IP, son hostname et l'ouverture de port automatique avec Vagrant 
