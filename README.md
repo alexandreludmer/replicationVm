@@ -2,11 +2,9 @@
 
 - TODO : https://fteychene.github.io/vagrant-ansible-epsi/Projet.pdf
 
-### Contexte 
+## Prérequis :
 
 Ce travail s'effectue depuis une bécane windows 10 
-
-## Prérequis :
 
 - Vagrant 
 - Virtualbox
