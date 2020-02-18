@@ -1,4 +1,4 @@
-# Projet (non) terminé 
+# Projet (non) terminé (a l'avenir je souhaite m'investir sérieusement sur ansible)
 
 ##### Problème :  Comme expliqué ci-dessous, j'ai choisis de créer deux VMs vagrant dans une VM vagrant. 
 ##### Résultat : Mon inception de VM ne peux pas se lancer à cause du module VT-X non activé...
